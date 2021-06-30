@@ -1,5 +1,7 @@
 # PackageURL
 
+![CI][ci badge]
+
 Swift implementation of the [package url specification][purl-spec].
 
 ## Requirements
@@ -51,4 +53,5 @@ let package = Package(
 
 MIT
 
+[ci badge]: https://github.com/mattt/packageurl-swift/workflows/CI/badge.svg
 [purl-spec]: https://github.com/package-url/purl-spec
